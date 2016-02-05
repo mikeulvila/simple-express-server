@@ -4,11 +4,15 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "body-parser": "^1.14.2",
     "express": "^4.13.4"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "bower": "^1.7.7"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "bower": "bower install"
   },
   "repository": {
     "type": "git",

@@ -1,0 +1,21 @@
+{
+  "name": "simple-express-server",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Mike Ulvila <mikeulvila@me.com> (https://github.com/mikeulvila)"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/mikeulvila/simple-express-server",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
